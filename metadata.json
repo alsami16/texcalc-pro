@@ -1,0 +1,6 @@
+{
+  "name": "Apparel Engineering & Costing Calculator",
+  "description": "Enterprise-grade mathematically verified textile consumption, marker planning, thread engineering, packaging logistics, and garment costing calculator with independent unit selectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
